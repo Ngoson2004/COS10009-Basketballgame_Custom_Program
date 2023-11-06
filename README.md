@@ -2,5 +2,6 @@
 
 'basketballmaster_scenes.rb' manages all of the properties and activities in game\
 'game' folder contains images\
-'smb' folder contains font size\
+'Merriweather' folder contains font size\
+'smb' and 'media' contains sound tracks
 
